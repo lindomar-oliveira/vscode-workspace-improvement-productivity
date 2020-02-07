@@ -2,12 +2,17 @@
 
 Extensions are useful to help automate tasks and can also add specific and essential features of a language or framework.
 
-| Name | Language | URL |
+| Name | Languages | URL |
 | ------ | ------ | ------ |
+| Auto Rename Tag | HTML, JSX (React/React Native) and XML| <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag> |
 | Beautify | CSS, HTML, JS, JSON and SASS | <https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify> |
-| Bracket Pair Colorizer | All | <https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer> |
-| EditorConfig for VS Code | All | <https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig> |
+| Bracket Pair Colorizer 2 | Any | <https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2> |
+| EditorConfig for VS Code | Any | <https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig> |
+| Highlight Matching Tag | HTML and JSX (React/React Native) | <https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag> |
 | IntelliSense for CSS class names in HTML | [Check here](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion#supported-language-modes) | <https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion> |
+| Output Colorizer | Any file `*.log` | <https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer> |
+| Path Intellisense | Any | <https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense> |
+| Turbo Console Log | JavaScript/TypeScript | <https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log> |
 | Visual Studio IntelliCode | C#, C++, JS, TS, XAML | <https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode> |
 
 
@@ -61,7 +66,3 @@ File: `settings.json` <= [how to open](#how-to-open-settings-json)
 "javascript.updateImportsOnFileMove.enabled": "always",
 "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 ```
-
-License
-----
-MIT
